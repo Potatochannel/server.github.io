@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.2",
+    "@vuepress/plugin-pwa": "^1.5.4",
+    "sass": "^1.32.0",
+    "sass-loader": "^8.0.2",
+    "vuepress": "^1.5.4"
+  },
+  "scripts": {
+    "dev": "yarn serve",
+    "serve": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "dependencies": {
+    "@docsearch/css": "^1.0.0-alpha.27",
+    "@docsearch/js": "^1.0.0-alpha.27",
+    "algoliasearch": "^4.4.0",
+    "axios": "^0.21.1",
+    "intersection-observer": "^0.11.0",
+    "showdown": "^1.9.1",
+    "swiper": "^6.8.2",
+    "vue-awesome-swiper": "^4.1.1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "はと鯖",
+  "short_name": "はと鯖",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#af3e3e",
+  "description": "はと鯖公式ウィキ"
+}
